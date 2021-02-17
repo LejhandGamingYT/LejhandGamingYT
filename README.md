@@ -5,7 +5,7 @@
     <img align ="left" alt="Subodh's Discord" width="22px" src ="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
   </a>
   
-  Hey, I'm Subodh Inamdar, a Web Developer 🚀, Back End Developer & Discord Bot Developer from India. ~~And a Weeb.~~
+  Hey, I'm Dhruv Bhanushali, a Back End Developer & Discord Bot Developer from India.
 
  **Information:**
 
