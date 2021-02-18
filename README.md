@@ -34,7 +34,7 @@
 **Stats:**  
 
 <div align="center"><img src="https://github-profile-trophy.vercel.app/?username=LejhandGamingYT&theme=dracula&count_private=true"></div>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=LejhandGamingYT&show_icons=true&hide_border=true&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LejhandGamingYT&theme=tokyonight&hide=batchfile">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=LejhandGamingYT&show_icons=true&hide_border=true&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LejhandGamingYT&theme=tokyonight&count_private=true&hide=batchfile">
 
 [![Discord Bots](https://top.gg/api/widget/status/751079643980890225.svg)](https://top.gg/bot/751079643980890225)
 [![Discord Bots](https://top.gg/api/widget/upvotes/751079643980890225.svg)](https://top.gg/bot/751079643980890225)
