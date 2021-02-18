@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Dhruv! (AKA Lejhand).<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi there 👋, I'm Dhruv! (AKA Lejhand).
 
 <br/>
 <a href="https://discord.com/users/552814506070507531">
