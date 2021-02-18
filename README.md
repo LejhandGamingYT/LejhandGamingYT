@@ -2,10 +2,10 @@
 
 <br/>
 <a href="https://discord.com/users/552814506070507531">
-    <img align ="left" alt="Subodh's Discord" width="22px" src ="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
+    <img align ="left" alt="Lejhand's Discord" width="22px" src ="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
   </a>
   
-  Hey, I'm Dhruv Bhanushali, a Back End Developer & Discord Bot Developer from India.
+  Hey, I'm Dhruv Bhanushali, a Discord Bot Developer from India.
 
  **Information:**
 
